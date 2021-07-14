@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CONTATOS</string>
+    <string name="content_descriprion" />
+    <string name="photo">Foto do Contato</string>
+    <string name="menu_1">menu0</string>
+    <string name="menu_2">menu_2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
